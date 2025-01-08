@@ -26,3 +26,4 @@ Fix typo in README
 Update dependencies
 Fix bug in feature X
 Add test cases
+Add new utility script
