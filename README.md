@@ -24,3 +24,4 @@ Improve performance
 Fix broken link
 Fix typo in README
 Update dependencies
+Fix bug in feature X
