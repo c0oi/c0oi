@@ -23,3 +23,4 @@ Rewrite function Y
 Improve performance
 Fix broken link
 Fix typo in README
+Update dependencies
